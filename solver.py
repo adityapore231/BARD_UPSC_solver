@@ -4,7 +4,7 @@ import os
 from fpdf import FPDF
 from reportlab.pdfgen import canvas
 
-os.environ['_BARD_API_KEY']="XQiK2WDwuscVzl0vW4r2rlBBfLgcVR8xpUpemhUHt9PW9ici5rJv5GMWxPFmuRizEbLL4g."
+os.environ['_BARD_API_KEY']="XXXXXXXXXXXXX"
 
 def bard(question):
     print("Getting the answer..........")
